@@ -9,7 +9,6 @@
 }
 * {
     font-weight: 400;
-
 }
 body {
     color: var(--branco);
@@ -53,7 +52,6 @@ body {
     border: 2px solid var(--borda);
     margin-top: 32px;
     padding: 24px;
-
 }
 .parametro-titulo {
     font-family: var(--roboto-mono);
@@ -95,7 +93,6 @@ body {
     background-color: var(--fundo-senha);
     height: 30px;
     width: 100%;
-
 }
 .forca {
     height: 30px;
